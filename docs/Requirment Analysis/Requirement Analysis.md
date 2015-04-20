@@ -8,6 +8,9 @@ LocateShare:
 2.	一键呼救：老人发生紧急情况需要帮助时，通过快捷键将自己的位置一键共享给LocateShare中的授权号码    
     
 效果图：    
+权限授予效果图    
 ![权限授予](PhoneSet.png)  
-![位置获取](LocateGet.png)     
+位置获取效果图    
+![位置获取](LocateGet.png)   
+一键呼救效果图    
 ![一键呼救](SOS.png)    
