@@ -1,4 +1,4 @@
-智能终端开发比赛作品---定位助手    
+移动终端应用设计创新比赛---定位助手    
 
 功能简介：通过手机，以短信的形势随时获取目标的位置。    
     
@@ -19,4 +19,4 @@ B：装载了LocateShare并已授权了A的电话号码的手机
     
 在A中点击获取位置按钮，A的手机在后台向B发送查询位置指令。B收到位置查询请求后将位置反馈给A，LocateGet将位置解析在Map中 
     
-当前节点：[需求分析](https://github.com/alivebao/LocateHelper/blob/master/docs/Requirment%20Analysis/Requirement%20Analysis.md)编写中
+当前进度：[需求分析](https://github.com/alivebao/LocateHelper/blob/master/docs/Requirment%20Analysis/Requirement%20Analysis.md)编写中
